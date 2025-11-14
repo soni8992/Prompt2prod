@@ -8,3 +8,7 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
 });
+
+export default {
+  base: "/<REPO-NAME>/",
+};
